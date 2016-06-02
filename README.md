@@ -5,6 +5,11 @@ Compte admin
 login : fey89
 mdp: Barthélémy12
 
+Compte utilisateur
+===================
+login : user
+mdp: Barthélémy13
+
 Au démarrage :
 ====================
 - Créer une base de donnée Wordpress sur Phpmyadmin
